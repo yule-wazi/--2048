@@ -1,5 +1,4 @@
 const path = require("path")
-const { output, devServer } = require("../学习webpack/webpack.config");
 const HtmlWebpackPlugin = require("html-webpack-plugin")
 
 module.exports = {
